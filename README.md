@@ -8,9 +8,28 @@
 - 📫 How to reach me: [My Instagram  @vedant.js](https://www.instagram.com/vedant.js), Discord:- Optimus Prime#1360
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: Two thing I cannot live without is thinking about coding stuffs & listening musics.
+
+### Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Atom" width="50px" src="https://img.icons8.com/ios-filled/50/000000/atom-editor.png" />
+<img align="left" alt="Atom" width="50px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png" />
+<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
+<img align="left" alt="Python" width="50px" src="https://img.icons8.com/color/48/000000/python--v2.png" />
+<img align="left" alt="C++" width="50px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
+<img align="left" alt="Kali" width="50px" src="https://img.icons8.com/color/48/000000/kali-linux.png" />
+<img align="left" alt="Atom" width="50px" src="https://cdn1.iconfinder.com/data/icons/hawcons/32/700048-icon-89-document-file-sql-512.png" />
+<img align="left" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="Git" width="50px" src="https://img.icons8.com/color/48/000000/git.png" />
+<img align="left" alt="GitHub" width="50px" src="https://img.icons8.com/bubbles/100/000000/github.png" />
+<img align="left" alt="Terminal" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
 <br />
-Spotify Playing 🎧
+<br />
+<br />
+<br />
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31icqmepl4tmn44eoixufqg3cvem?si=e570ee4aebec4520)
-
+---
 <img src="https://github-readme-stats.vercel.app/api?username=Vedant003&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
