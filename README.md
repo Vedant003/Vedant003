@@ -20,7 +20,7 @@
 <img align="left" alt="Python" width="50px" src="https://img.icons8.com/color/48/000000/python--v2.png" />
 <img align="left" alt="C++" width="50px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
 <img align="left" alt="Kali" width="50px" src="https://img.icons8.com/color/48/000000/kali-linux.png" />
-<img align="left" alt="Atom" width="50px" src="https://cdn1.iconfinder.com/data/icons/hawcons/32/700048-icon-89-document-file-sql-512.png" />
+<img align="left" alt="SQL" width="50px" src="https://cdn1.iconfinder.com/data/icons/hawcons/32/700048-icon-89-document-file-sql-512.png" />
 <img align="left" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="50px" src="https://img.icons8.com/color/48/000000/git.png" />
 <img align="left" alt="GitHub" width="50px" src="https://img.icons8.com/bubbles/100/000000/github.png" />
