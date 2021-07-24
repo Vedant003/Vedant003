@@ -12,7 +12,7 @@
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Atom" width="50px" src="https://img.icons8.com/ios-filled/50/000000/atom-editor.png" />
+<img align="left" alt="Atom" width="50px" src="https://raw.githubusercontent.com/ahmadseleem/Atom-Classy-icons/master/Classy-Atom/Classy-icon.png" />
 <img align="left" alt="java" width="50px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png" />
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
